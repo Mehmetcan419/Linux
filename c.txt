@@ -1,0 +1,145 @@
+    1  python
+    2  ls
+    3  ls-t
+    4  ls -t
+    5  ls -l
+    6  clear
+    7  ls
+    8  touch /login.txt
+    9  f                                                                tou
+   10  touch burak.txt
+   11  nano burak.txt
+   12  less burak.txt
+   13  vi burak.txt
+   14  b
+   15  cls
+   16  0
+   17  ls -l
+   18  man
+   19  man man
+   20  man mkdir
+   21  help less
+   22  help
+   23  q
+   24  /bin/python3 /home/ubuntu/Desktop/goruntu_isleme/cam_oku.py
+   25  pip install
+   26  pip install opencv-python
+   27  python -m
+   28  python
+   29  python3
+   30  pip3 install opencv-python
+   31  pip install opencv-python
+   32  /usr/bin/python3 /home/ubuntu/Desktop/goruntu_isleme/cam_oku.py
+   33  pip install opencv-python
+   34  python3 -m pip3 install opencv-python
+   35  python3 -m pip install opencv-python
+   36  sudo apt install pyth
+   37  sudo apt install python3-pip
+   38  pip install opencv-python3
+   39  pip install opencv-python
+   40  sudo apt install python3-pip
+   41  /usr/bin/python3 /home/ubuntu/Desktop/goruntu_isleme/cam_oku.py
+   42  python3 -m pip install opencv-python
+   43  sudo apt install python
+   44  sudo apt install python3
+   45  sudo apt install python-3
+   46  sudo apt install python3
+   47  sudo apt install python3-pip
+   48  python
+   49  python3
+   50  python3 -m
+   51  python3 -m pip install opencv-python
+   52  python3 -m pip3 install opencv-python
+   53  pip3 install opencv-python
+   54  pip install opencv-python
+   55  sudo apt update
+   56  sudo apt upgrade
+   57  hostname-i
+   58  cmatrix
+   59  esra
+   60  elif
+   61  bash Mi
+   62  bash ./Mi
+   63  bash Mi
+   64  bash Miniconda3-latest-Linux-x86_64.sh 
+   65  conda
+   66  conda create -n imgproc python==3.11
+   67  conda activate imgproc
+   68  pip install opencv-python install -q mediapipe
+   69  pip install -q mediapipe
+   70  python3 -m pip3 install opencv-python
+   71  python3 -m pip install opencv-python
+   72  /usr/bin/python3 /home/ubuntu/Desktop/goruntu_isleme/cam_oku.py
+   73  conda activate imgproc
+   74  pip install mediapipe
+   75  sudo add-apt-repository ppa:yannubuntu/boot-repair
+   76  sudo apt update
+   77  sudo apt install -y boot-repair
+   78  boot-repair
+   79  /usr/bin/python3 /home/ubuntu/Desktop/goruntu_isleme/cam_oku.py
+   80  date
+   81  conda
+   82  cls
+   83  clear
+   84  uname -re
+   85  uname -r
+   86  status firefox
+   87  clear
+   88  top
+   89  clear
+   90  adduser ceren
+   91  sudo adduser ceren
+   92  kill ceren
+   93  clear
+   94  sudo
+   95  clear
+   96  sudo deluser --remove-home ceren 
+   97  clear
+   98  ls
+   99  Is
+  100  pwd
+  101  ls user
+  102  history
+  103  clear
+  104  pwd
+  105  mkdir ~/ai && touch ~/ai/{a.txt,b.txt,c.txt}
+  106  ls ~/ai
+  107  ln ~/ai/a.txt a
+  108  cat a
+  109  echo"merhabaa" > a.txt
+  110  echo "merhabaa" > a.txt
+  111  cat a
+  112  echo "merhabaa" > ~/ai/a.txt
+  113  cat a
+  114  rm ~/ai/a.txt
+  115  cat a
+  116  ln -s ~/ai/b.txt b
+  117  echo "hello" > b
+  118  cat b
+  119  rm ~/ai/b.txt
+  120  cat b
+  121  rm b
+  122  clear
+  123  mkdir projelerim 
+  124  cd projelerim/
+  125  mkdir yuztanima goruntu isleme elhareketi
+  126  ls
+  127  touch elhareketi/e.txt
+  128  touch goruntu/g.txt
+  129  touch isleme/f.txt
+  130  touch yuztanima/y.txt
+  131  cd ..
+  132  tar cfvz projelerim.tar.zip projelerim
+  133  ls
+  134  clear
+  135  tar t projelerim.tar.zip
+  136  tar tf projelerim.tar.zip
+  137  rm -rf projelerim(2)
+  138  rm -rf projelerim (2)
+  139  rm -rf projelerim
+  140  clear
+  141  tar xf projelerim.tar.zip 
+  142  ls -al
+  143  ls -al .
+  144  history
+  145  history > c.txt
